@@ -13,7 +13,7 @@ else {
   connection = mysql.createConnection({
     host : 'localhost',
     user : 'root',
-    password : 'root',
+    password :
     port : 3307,
     database : 'burgers_db'
   })
