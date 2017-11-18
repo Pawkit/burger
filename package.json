@@ -1,26 +1,26 @@
 {
   "name": "burger",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node Express handlebars App",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pawkit/burger.git"
+    "url": "git+https://github.com/mitalimn/Burger.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Mitali Naik",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Pawkit/burger/issues"
+    "url": "https://github.com/mitalimn/Burger/issues"
   },
-  "homepage": "https://github.com/Pawkit/burger#readme",
+  "homepage": "https://github.com/mitalimn/Burger#readme",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
     "express-handlebars": "^3.0.0",
-    "method-override": "^2.3.10",
-    "mysql": "^2.15.0"
+    "method-override": "^2.3.7",
+    "mysql": "^2.12.0"
   }
 }
